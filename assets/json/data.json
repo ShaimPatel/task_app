@@ -1,0 +1,93 @@
+{
+    "Categories": [
+        {
+        "id": "1",
+        "bgColor" :"false",
+        "title": "Family",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-asian-family-illustration_52683-85260.jpg"
+       },
+       {
+        "id": "2",
+        "bgColor" :"false",
+        "title": "Sweat Shirt",
+         "image": "https://static.massimodutti.net/3/photos//2023/I/0/1/p/6823/540/251/6823540251_1_1_16.jpg?t=1659000423719&impolicy=massimodutti-itxmediumhigh&imwidth=500&imformat=chrome"
+       },
+       {
+        "id": "3",
+        "bgColor" :"false",
+        "title": "Polo Shirt",
+         "image": "https://shopaholics.co/cdn/shop/products/CottonBioWashedPoloCollarT-ShirtForMen-Shopaholics-_3.jpg?v=1641110777&width=1445"
+       },
+       {
+        "id": "4",
+        "bgColor" :"true",
+        "title": "SwimWear",
+         "image": "https://images.beallsflorida.com/i/beallsflorida/DP070123_Womens%20SWIMWEAR%20L2_MIX%20MATCH_3?fmt=auto&qlt=default"
+       },
+       {
+        "id": "5",
+        "bgColor" :"true",
+        "title": "Kids wear",
+         "image": "https://media.istockphoto.com/id/508756496/photo/child-girl-cotton-bright-summer-clothes-set-collage-isolated.jpg?s=1024x1024&w=is&k=20&c=7sd-McNcOzKlGMPTxD5im979EHPmiu4FhuqE8qEwkV8="
+       }
+    ],
+  "discount": {
+                "title" : "Discount of autumn \n collection 10% off",
+                "discountLastDate" : "21-06-2023",
+                "timer": "2 days 5 hours remaining"
+            },
+  "newCollection": {
+    "BannerTitle" : "New Collection",
+    "Banner" : "www.example.com/demo_image.png",
+    "items" : [
+      {
+        "id":"1",
+        "name":"Test Name1",
+        "discount" : "10%",
+        "image" : "https://images.bewakoof.com/t640/men-s-pink-flat-knit-sweater-365028-1655818371-1.jpg",
+        "Price" : "123",
+        "description" : "This is test description",
+        "sizes" : ["S","M","L","XL"],
+        "colors" : ["RED","BLUE","GREEN","YELLOW"],
+        "images" : ["https://images.bewakoof.com/t640/men-s-pink-flat-knit-sweater-365028-1655818371-1.jpg","https://maxinautic.com/wp-content/uploads/2022/11/sudadera-mens-hh-logo-hoodie-mostaza.jpg","https://media.sneakids.com/catalog/product/cache/image/1800x/9df78eab33525d08d6e5fb8d27136e95/4/1/41629-949_1.jpg","https://www.seasonbazaar.com/wp-content/uploads/2019/08/Hoodies-Men-2019-Brand-Male-Long-Sleeve-HELLY-HANSEN-Hooded-Sweatshirt-Mens-Hoodie-Tracksuit-Sweat-Coat-5.jpg"],
+        "prices" : ["123","124","125","128"]
+      }, 
+          {
+        "id":"2",
+        "name":"Test Product name 2",
+        "discount" : "10%",
+        "image" : "https://fullyfilmy.in/cdn/shop/products/New-Mockups---no-hanger---TShirt-Yellow.jpg?v=1639657077",
+        "Price" : "123",
+        "description" : "This is test description",
+        "sizes" : ["SL","M","L","XL"],
+        "colors" : ["RED","BLUE","GREEN","YELLOW"],
+        "images" : ["https://www.seasonbazaar.com/wp-content/uploads/2019/08/Blue-Flaming-tshirt-Men-Women-t-shirt-3d-t-shirt-Casual-Tops-Anime-Streawear-Short-Sleeve-6.jpg","https://www.teez.in/cdn/shop/products/17_2d8a6806-b029-49c8-99ab-9a5445b73bed_large.jpg?v=1663674936","https://www.stateshop.com/cdn/shop/products/top-gun-t-shirt-shining-neon-green-37600181715188_914x.webp?v=1672822444","https://d1flfk77wl2xk4.cloudfront.net/Assets/52/063/XXL_p0187206352.jpg"],
+        "prices" : ["123","124","125","128"]
+      }, 
+          {
+        "id":"3",
+        "name":"Test Product Name3",
+        "discount" : "10%",
+        "image" : "https://m.media-amazon.com/images/I/41D6rtOu0GS.jpg",
+        "Price" : "123",
+        "description" : "This is test description",
+        "sizes" : ["S","M","L","XL"],
+        "colors" : ["RED","BLUE","GREEN","YELLOW"],
+        "images" : ["https://img.eobuwie.cloud/eob_product_656w_656h(a/4/5/8/a458025c2c3d75dffe4d6d6bd396a1b004ded3b6_0000207617056_01_rz,jpg)/sneakers-u-s-polo-assn-tuzla3-fey4228s8-y2-blk.jpg","https://img4.dhresource.com/0x0/f3/albu/ry/z/13/c49f92fe-1177-42fc-bbd6-88652847cf4a.jpg","https://m.media-amazon.com/images/I/61JBthv81zL._SY575_.jpg","https://img.eobuwie.cloud/eob_product_656w_656h(a/4/5/8/a458025c2c3d75dffe4d6d6bd396a1b004ded3b6_0000207617056_01_rz,jpg)/sneakers-u-s-polo-assn-tuzla3-fey4228s8-y2-blk.jpg"],
+        "prices" : ["123","124","125","128"]
+      }, 
+          {
+        "id":"4",
+        "name":"Test product Name 4",
+        "discount" : "10%",
+        "image" : "https://i0.wp.com/hootsindia.co.in/wp-content/uploads/2021/08/grey-pant.jpg?fit=1200%2C1200&ssl=1",
+        "Price" : "123",
+        "description" : "This is test description",
+        "sizes" : ["S","M","L","XL"],
+        "colors" : ["RED","BLUE","GREEN","YELLOW"],
+        "images" : ["https://sslimages.shoppersstop.com/sys-master/images/h21/h1a/16658372067358/206696464_KHAKI_alt1.jpg_2000Wx3000H","https://www.mrporter.com/variants/images/4146401443246171/in/w2000_q60.jpg","https://img.tatacliq.com/images/i11/437Wx649H/MP000000017863500_437Wx649H_202306081348521.jpeg","https://img.tatacliq.com/images/i11/437Wx649H/MP000000017863500_437Wx649H_202306081348521.jpeg"],
+        "prices" : ["123","124","125","128"]
+      }
+      ]
+  }
+}

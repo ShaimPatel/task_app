@@ -1,0 +1,17 @@
+{
+    "cart":  {
+        "totalQty" : "0",
+        "totalAmount" : "0",
+        "totalDiscount" : "0",
+        "cartItems" : [
+            {
+                "id":"1",
+                "itemId":"1",
+                "price":"1",
+                "discount":"1",
+                "qty":"",
+                "image" : ""
+            }
+            ]
+        }
+}
