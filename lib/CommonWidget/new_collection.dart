@@ -100,7 +100,7 @@ class _NewCollectionPageState extends State<NewCollectionPage> {
                   itemCount: filteredItems.length - 1,
                   itemBuilder: (BuildContext context, int index) {
                     final item = filteredItems[index];
-                    print(item);
+                    // print(item);
                     return InkWell(
                       onTap: () {
                         // print(jsonData['newCollection']['items'][0]['sizes']);

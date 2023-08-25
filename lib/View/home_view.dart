@@ -55,7 +55,7 @@ class _HomeViewState extends State<HomeView>
       });
     } catch (error) {
       const CircularProgressIndicator();
-      print('Error loading JSON data: $error');
+      // print('Error loading JSON data: $error');
     }
   }
 

@@ -4,12 +4,12 @@ import 'package:flutter/material.dart';
 import '../../../../../Utils/AppTxetStyle/text_style.dart';
 
 class SecondListWidget extends StatefulWidget {
-  String title;
-  ImageProvider firstImage;
-  String? description;
-  Color bgColor;
+  final String title;
+  final ImageProvider firstImage;
+  final String? description;
+  final Color bgColor;
 
-  SecondListWidget(
+  const SecondListWidget(
       {Key? key,
       required this.bgColor,
       required this.title,

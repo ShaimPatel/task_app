@@ -6,7 +6,7 @@ class CartProvider extends ChangeNotifier {
   final List<CartItem> _cartItems = [];
   int _selectedColorIndex = 0;
   double _currentPrice = 0.0;
-  final double _discountPrice = 0.0;
+  // final double _discountPrice = 0.0;
 
   int _selectedSizeIndex = 0;
   double _selectedItemPrice = 0.0;

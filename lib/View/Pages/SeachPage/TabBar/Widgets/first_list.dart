@@ -4,12 +4,12 @@ import 'package:flutter/material.dart';
 import '../../../../../Utils/AppTxetStyle/text_style.dart';
 
 class FirstItemWidget extends StatefulWidget {
-  String title;
-  ImageProvider firstImage;
-  ImageProvider secondImage;
-  String description;
-  Color bgColor;
-  FirstItemWidget({
+  final String title;
+  final ImageProvider firstImage;
+  final ImageProvider secondImage;
+  final String description;
+  final Color bgColor;
+  const FirstItemWidget({
     Key? key,
     required this.title,
     required this.firstImage,
