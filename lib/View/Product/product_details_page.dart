@@ -32,32 +32,6 @@ class _ProductDetailsPageState extends State<ProductDetailsPage> {
   TabController? tabController;
 
   List<CartItem> cartItems = [];
-
-  // void addToCart() {
-  //   CartProvider cartProvider =
-  //       Provider.of<CartProvider>(context, listen: false);
-  //   int selectedSizeIndex = GlobalVar.selectedSizeIndex;
-  //   String itemId = widget.id;
-  //   String itemName = widget.jsonData['newCollection']['items']
-  //       [int.parse(itemId) - 1]['name'];
-  //   String image = widget.jsonData['newCollection']['items']
-  //       [int.parse(itemId) - 1]['images'][GlobalVar.currentIndex];
-  //   double price = double.parse(widget.jsonData['newCollection']['items']
-  //       [int.parse(itemId) - 1]['prices'][selectedSizeIndex]);
-  //   String size = widget.jsonData['newCollection']['items']
-  //       [int.parse(itemId) - 1]['sizes'][cartProvider.selectedSizeIndex];
-
-  //   CartItem cartItem = CartItem(
-  //     itemId: itemId,
-  //     itemName: itemName,
-  //     image: image,
-  //     price: price,
-  //     quantity: 1,
-  //     size: size,
-  //   );
-
-  //   cartProvider.addToCart(cartItem);
-  // }
   void addToCart() {
     CartProvider cartProvider =
         Provider.of<CartProvider>(context, listen: false);
